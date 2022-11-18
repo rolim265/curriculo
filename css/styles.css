@@ -69,6 +69,10 @@
 *::after {
   box-sizing: border-box;
 }
+.\F882{
+  width: 2200%;
+
+}
 
 @media (prefers-reduced-motion: no-preference) {
   :root {
